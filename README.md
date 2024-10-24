@@ -23,3 +23,12 @@ Esta aplicación está diseñada para apoyar a niños con Trastorno por Déficit
 
 ### Cronómetro Personal y Autoseguimiento
 ![Cronómetro Personal](./Cronometro_Personal.png)
+
+## MockUp
+- **Enlace:** [Figma Octav.io](https://www.figma.com/proto/cbnqJXicDQNTs7eSdIedQ9/Students'-Progress-Tracking-App-(Community)?node-id=461-442&starting-point-node-id=461%3A442).
+  
+## Herramientas
+
+Cosmo BD: [Documentacion](https://pub.dev/packages/azure_cosmosdb)
+Vertex AI: [Caracteristicas](https://cloud.google.com/generative-ai-studio?hl=es_419)
+Template: [Templates manejados](https://flutterawesome.com/task-management-ui-design-with-flutter/)
